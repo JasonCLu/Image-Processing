@@ -1,6 +1,6 @@
 '''
 Simplest method of image segmentation
-Values about a threshold is set to one value (e.g. White)
+Values above a threshold is set to one value (e.g. White)
 Values below a threshold is set to another value (e.g. Black)
 
 cv2.threshold(src, thresh, maxval, type, [dst])
