@@ -6,3 +6,4 @@ Learning image processing and CV algorithms in Python.
 1) matplotlib
 2) numpy
 3) opencv-contrib-python
+4) imutils
